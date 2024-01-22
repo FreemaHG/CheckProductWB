@@ -4,7 +4,7 @@ from typing import Dict
 import requests
 
 
-ARTICLE = 51909059
+ARTICLE = 23412083
 SEARCH_PHRASE = "джинсы мужские зауженные черные"
 
 

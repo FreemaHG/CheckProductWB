@@ -32,3 +32,6 @@
     python3 main.py
     ```
 Артикул и фраза для поиска товара задаются в переменных **ARTICLE** и **SEARCH_PHRASE** соответственно.
+
+![](/screens/2.png)
+![](/screens/1.png)
